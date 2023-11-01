@@ -1,0 +1,3 @@
+# PyPokerEngine and PyPokerGUI libraries
+git+https://github.com/Etown-RMI/PyPokerEngine.git
+git+https://github.com/Etown-RMI/PyPokerGUI.git

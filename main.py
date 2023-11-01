@@ -7,4 +7,4 @@ config.register_player(name="p2", algorithm=FishPlayer())
 config.register_player(name="p3", algorithm=FishPlayer())
 game_result = start_poker(config, verbose=1)
 
-#pypokergui serve ./poker_conf.yaml --port 8000 --speed moderate
+# pypokergui serve ./poker_conf.yaml --port 8000 --speed moderate
